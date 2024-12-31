@@ -2,6 +2,7 @@
 dist/
 build/
 .venv/
+要求/
 
 # 排除所有以"."开头的文件，但保留.gitignore
 .*
