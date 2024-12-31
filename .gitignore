@@ -1,0 +1,11 @@
+# 排除目录
+dist/
+build/
+.venv/
+
+# 排除所有以"."开头的文件，但保留.gitignore
+.*
+!.gitignore
+
+# 排除特定文件
+helloQT.py
