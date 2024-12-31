@@ -2,6 +2,11 @@
 
 使用pyqt5开发，使用paramiko库连接SSH服务器，使用bcrypt库加密密码，使用cryptography库加密密码，使用PyQt5库开发图形界面。
 
+![status](./assets/1.bmp)
+![access_log](./assets/2.bmp)
+![error_log](./assets/3.bmp)
+![config_file](./assets/4.bmp)
+
 ## 项目文件列表
 
 1. sshdemo.py
